@@ -1,1 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <items_info>
+      <title>Addon Alejandria</title>
+      <genre>News</genre>
+      <description>Addon Alejandria</description>
+      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+      <date>04.01.2013</date>
+      <credits>Addon Alejandria</credits>
+    </items_info>
 
+	
+    <item>
+        <title>Todos los canales</title>         
+        <link>http:>//ignoreme</link>
+        <externallink>http://xawos.ovh/index.php?q=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FkZG9uQWxlamFuZHJpYS9DaGFubmVscy5BbGVqYW5kcmlhL21hc3Rlci9BbGVqYW5kcmlhLkNoYW5uZWxzLnhtbA%3D%3D</externallink>
+	<genre>Accion</genre>
+        <info></info>
+        <date></date> 
+        <epg></epg> 
+        <fanart></fanart>
+</items>
