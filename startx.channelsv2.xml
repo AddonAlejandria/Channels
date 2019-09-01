@@ -33,5 +33,14 @@
 
 		
        
-	    
+	      <item>
+        <title>>NOW(AHORA)2</title>         
+        <link>http:>//ignoreme</link>
+        <externallink> https://raw.githubusercontent.com/AddonAlejandria/Channels.Alejandria/master/now.xml</externallink>
+	<genre>Accion</genre>
+        <info></info>
+        <date></date> 
+        <epg></epg> 
+        <fanart></fanart>
+		      
 </items>
